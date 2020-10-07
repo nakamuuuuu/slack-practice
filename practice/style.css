@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+main {
+    width: 100%;
+    height: 500px;
+    background-color: grey;
+}
+.container {
+    /* ここを編集 */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box {
+    /* ここを編集 */
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    
+
+}
